@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,200&family=Open+Sans:ital,wght@1,500&family=Poppins:wght@200&display=swap');
+body{
+    font-family: 'Nunito' sans-serif;
+    background-image: url(https://pbs.twimg.com/ext_tw_video_thumb/1471933227870871562/pu/img/DbVq0J0hpRc0l-hR.jpg);}
+h1{
+margin-bottom: 3em;
+color: darkred;
+text-align: center;
+font-family: 'Nunito';
+font-size: 2em;
+letter-spacing: 0.3em;
+}
+h2{
+    margin: 0 1em;
+    font-family: 'Nunito';
+    color:rgba(47, 99, 221, 1);  
+
+}
+h3{
+    margin: 0 1em;
+    font-family: 'Nunito';
+    color: rgba(192, 1, 24, 0.97)
+    }
+h4{
+    margin: 0 1em;
+    font-family: 'Nunito';
+    color:rgba(47, 99, 221, 1);  
+}
+
+p{
+    margin: 0 1em;
+    font-family: 'Nunito';
+    margin-bottom: 0.5em; 
+    margin-top: 0.5em;
+    line-height: 1em;
+    letter-spacing: 0.1em;
+}
+img{
+    margin: 0 0 1em 1em;
+}
+video{
+    margin: 0 1em;
+}
